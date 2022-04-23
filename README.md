@@ -5,7 +5,7 @@ Um mini projeto desenvolvido para alguns fundamentos da propriedade flex, estuda
 Desenvolver uma landing page simples e responsiva para colocar em práticas os fundamento sobre flex-box
 
 ## Requisitos necessários para rodar em sua máquina
-caso queira rodar e ver em sua máquina, bastea seguir os seguintes passos:
+Caso queira rodar e ver em sua máquina, bastea seguir os seguintes passos:
 ```
 # Pelo terminal, clone o repositório
 $ git clone https://github.com/wpmello/mini-project-flex-box
