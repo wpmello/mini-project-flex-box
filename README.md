@@ -12,7 +12,7 @@ $ git clone https://github.com/wpmello/mini-project-flex-box
 
 # Na pasta do projeto identifique o arquivo "index.hmtl" e dê dois cliques no mesmo
 ```
-### caso queira rodar em sua máquina e editar para deixar da maneira como preferir, bastea seguir os seguintes passos:
+### Caso queira rodar em sua máquina e editar para deixar da maneira como preferir, bastea seguir os seguintes passos:
 
 ```
 # Com o projeto já clonado em sua máquina, baixe um editor de texto como por exemplo o Visual Studio Code
