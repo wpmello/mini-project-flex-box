@@ -248,7 +248,7 @@ footer .footer {
     justify-content: space-between;
 }
 
-/* moble */
+/* mobile */
 
 @media(max-width: 992px) {
     .flex-container {
@@ -300,5 +300,4 @@ footer .footer {
     footer {
         min-width: 320px;
     }
-    
 }
